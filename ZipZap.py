@@ -1,5 +1,5 @@
 #Estephania Martinez
-#04/04/21
+#02/04/21
 #in-class
 #will determing if the number given is divisible by 5 or 7
 
